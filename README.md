@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abishake Gaur</h1>
-<h3 align="center">Computer Science Student from India | Passionate About Code & Innovation 🚀</h3>
+<h3 align="center"> Engineering Student from India | Passionate About Code & Innovation 🚀</h3>
 
 - 🔭 I’m currently working on **Portfolio Website**
 
